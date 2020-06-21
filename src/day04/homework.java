@@ -54,6 +54,14 @@ public class homework {
 
     public static void main(String[] args) {
 
+        /*
+		int n[]=new int[8];
+		for (int i = 0; i < n.length; i++) {
+			String s=JOptionPane.showInputDialog("请输入第"+(i+1)+"个整数：");
+			n[i]=Integer.parseInt(s);
+		}
+		*/
+
         int n[]={1,2,3,5,8,4,6,10};//{1,3,5},{2,8,4,6,10}
         output(n);
 
