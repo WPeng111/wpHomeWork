@@ -7,6 +7,7 @@ import java.io.IOException;
 /**
  * Create By ${user} on 2020/6/21.
  * 使用I/O流技术实现文件复制		a.txt   复制到  b.txt
+ * kgkitgit
  */
 public class HomeWork {
     public static void main(String[] args) throws IOException {
